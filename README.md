@@ -1,6 +1,6 @@
 # Music_Survey_Stats
 
-I had collected data by conducting a survey.
+I had collected data related to Music by conducting a survey.
 Inside this jupyter notebook you will find my take on discovering insights using statistics.
 
 Libraries used
